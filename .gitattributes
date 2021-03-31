@@ -1,0 +1,3 @@
+solc* binary
+*.plist text diff=xml
+*.sh text eol=lf
