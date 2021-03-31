@@ -7,3 +7,8 @@ node_modules
 *.o
 *.obj
 
+*.zip
+*.tar.gz
+*.lz
+*.tar
+*.tar.lz4
