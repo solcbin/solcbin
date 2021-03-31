@@ -1,18 +1,15 @@
 <div align="center">
 
-# solidity-osx
+# [solcbin](#)
 
-[solidity](https://github.com/ethereum/solidity) binaries for [mac os x](https://github.com/sambacha/solc-osx/).
+[solidity](https://github.com/ethereum/solidity) binaries for [mac os x](https://github.com/sambacha/solc-osx/) && linux .
 
 </div>
 
 
-## Solidity Version Manager (asdf-solidity)
+## Binary Index
 
-[https://github.com/sambacha/asdf-solidity](https://github.com/sambacha/asdf-solidity)
-Instead of using Homebrew <br>
-*(which has its own issues as Homebrew has its own 'kingdom' a.k.a the Celler/")* <br>
-asdf-solidity uses [asdf-vm](https://github.com/asdf-vm/asdf)
+[view the solcbin/solcbin available binaries](http://htmlpreview.github.io/?https://raw.githubusercontent.com/solcbin/solcbin/trunk/index.html)
 
 
 ### Solidity Versions 
